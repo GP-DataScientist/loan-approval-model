@@ -1,7 +1,7 @@
 # Loan Approval Prediction – EDA & Modeling Overview
 
-## Objective
-Analyze factors influencing loan approval decisions and build a predictive model using applicant financial and credit data.
+## Problem Statement
+Financial systems must balance credit risk and approval rates when evaluating loan applications. This project analyzes key financial and credit variables to understand approval drivers and build an interpretable predictive model.
 
 ---
 
